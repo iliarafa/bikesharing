@@ -1,7 +1,7 @@
 # bikesharing
 
 ## Analysis Overview
-This analysis aims to 
+This analysis aims to provide an extensive breakdown of bike trip analysis for investors who are looking to see if the bike-sharing program is a solid business proposal. 
 
 ## Results
 Most trips start and end in midtown and downtown. This is a result of New Yorkers commuting to and from work and this conclusion will be reinforced by observing graphs related to trips by hour. 
