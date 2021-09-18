@@ -17,10 +17,11 @@ Other areas of special interest are stations close to the Hudson River Greenway,
 
 The trip duration graphs show that most trips are in the 5 to 15 minute range. These short trips are probably workers commuting while at the same time longer trips are likely visitors of the city biking around. A very subtle and slight difference between male and female users exist in the duration of trips. Female users take slighlty longer trips and when we reach the very long trips levels (around 40 to 50 minutes) we see that the ratio between male and female users is almost balanced.
 
-### Hour
+### Trips by day and hour of day
 
 ![](images/hour.png)
 
+Trip volume increases during both morning and evening rush hour. It was expexted and by these graphs it is confirmed that the main audience for bike sharing are workers commuting. Between 7 and 9 AM and between 4 to 6PM there is an overwhelming increase of trips especially for male users. On another stage of our analysis we could look for trip duration by hour of trip and weekday to secure further insight on this primetime bike sharing event. Distribution of trips throughout the day is more even when it comes to female users. This likely indicates that female users do not favor biking as a means of commuting to work - or maybe that more female users have their own bikes. 
 
 
 [Link to Dashboard >](https://public.tableau.com/views/citibike2_16317409939030/BikeSharing?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
