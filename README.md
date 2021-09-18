@@ -21,7 +21,13 @@ The trip duration graphs show that most trips are in the 5 to 15 minute range. T
 
 ![](images/hour.png)
 
-Trip volume increases during both morning and evening rush hour. It was expexted and by these graphs it is confirmed that the main audience for bike sharing are workers commuting. Between 7 and 9 AM and between 4 to 6PM there is an overwhelming increase of trips especially for male users. On another stage of our analysis we could look for trip duration by hour of trip and weekday to secure further insight on this primetime bike sharing event. Distribution of trips throughout the day is more even when it comes to female users. This likely indicates that female users do not favor biking as a means of commuting to work - or maybe that more female users have their own bikes. 
+Trip volume increases during both morning and evening rush hour. It was expexted and by these graphs it is confirmed that the main audience for bike sharing are workers commuting. Between 7 and 9 AM and between 4 to 6PM there is an overwhelming increase of trips especially for male users. On another stage of our analysis we could look for trip duration by hour of trip and weekday to secure further insight on this primetime bike sharing event. Distribution of trips throughout the day is more even when it comes to female users. This likely indicates that female users do not favor biking as a means of commuting to work - or maybe that more female users have their own bikes. As we also see the graph also balances out for all users on Saturdays and Sundays where there is a more even trip distribution throughout the day. 
+
+### Trips by Gender by Weekday
+
+![](images/gender_day.png)
+
+In this last graph the uneven ratio between male and female users is again evident and what is also impressive is the increase of trips on Thursdays and Fridays. While Friday is the start of the weekend which might inspire more bike rides, there is no apparent reason for Thursdays being the day when most trips take place. One explanation is that there are incoming visitors who start their visit in the city with a bike ride, just before the weekend. However, visitors of the city have not proven to be able to skew the graphs so we have to look elsewhere. Another reason to think of is students around the city who have their Friday off. Regardless of all these, the same weekly variation is observed in both male and female users. 
 
 
-[Link to Dashboard >](https://public.tableau.com/views/citibike2_16317409939030/BikeSharing?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+[To interact with the charts click here >](https://public.tableau.com/views/citibike2_16317409939030/BikeSharing?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
