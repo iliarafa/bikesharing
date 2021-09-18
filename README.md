@@ -17,7 +17,9 @@ Other areas of special interest are stations close to the Hudson River Greenway,
 
 The trip duration graphs show that most trips are in the 5 to 15 minute range. These short trips are probably workers commuting while at the same time longer trips are likely visitors of the city biking around. A very subtle and slight difference between male and female users exist in the duration of trips. Female users take slighlty longer trips and when we reach the very long trips levels (around 40 to 50 minutes) we see that the ratio between male and female users is almost balanced.
 
+### Hour
 
+![](images/hour.png)
 
 
 
