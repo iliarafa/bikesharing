@@ -27,7 +27,14 @@ Trip volume increases during both morning and evening rush hour. It was expexted
 
 ![](images/gender_day.png)
 
-In this last graph the uneven ratio between male and female users is again evident and what is also impressive is the increase of trips on Thursdays and Fridays. While Friday is the start of the weekend which might inspire more bike rides, there is no apparent reason for Thursdays being the day when most trips take place. One explanation is that there are incoming visitors who start their visit in the city with a bike ride, just before the weekend. However, visitors of the city have not proven to be able to skew the graphs so we have to look elsewhere. Another reason to think of is students around the city who have their Friday off. Regardless of all these, the same weekly variation is observed in both male and female users. 
+In this last graph the uneven ratio between male and female users is again evident and what is also impressive is the increase of trips on Thursdays and Fridays. While Friday is the start of the weekend which might inspire more bike rides, there is no apparent reason for Thursdays being the day when most trips take place. One explanation is that there are incoming visitors who start their visit in the city with a bike ride, just before the weekend. Regardless, the same weekly variation is observed in both male and female users. 
 
+### Summary
+
+Bike sharing is a quite promising business option. People seem to favor bike sharing to commute to work, school or college and it is also an attractive option for visitors to tour a city. Most trips take 5 to 15 minutes to complete and gender ratio is 2 male for 1 female. Significantly more trips take place during the week and less during weekends. This is one of many indications that the main use for bike sharing is commuting to work. Des Moines, a city with vibrant student life would definitely benefit. Des Moines is also a major center of the US insurance industry and has a sizable financial services and publishing business base. The business of bikesharing in this city will most likely flourish. 
+
+As far as further research is concerned, we could extend our analysis if we could get data on the age of the users. We would be to describe the different uses of bike sharing with greater specificity. We would for example know how many students use bike sharing. 
+
+*Word of caution* : August is a very hot month in New York City. There are days you literally cannot bike, sometimes many successive days and this makes the data look less reliable. At the same time schools, colleges and universities are all on a summer break which means many residents are out of the city or simply not biking to school. This further adds to my concerns and makes me trust the data even less. I would suggest further research with bike sharing data from late Spring and early summer and early fall months when the city is at full capacity and the weather is less severe. 
 
 [To interact with the charts click here >](https://public.tableau.com/views/citibike2_16317409939030/BikeSharing?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
