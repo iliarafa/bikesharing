@@ -1,7 +1,7 @@
 # bikesharing
 
 ## Analysis Overview
-This analysis aims to provide an extensive breakdown of bike trip analysis for investors who are looking to see if the bike-sharing program is a solid business proposal. 
+This analysis aims to provide an extensive breakdown of bike trip data for investors who are looking to see if the bike-sharing program is a solid business proposal. 
 
 ## Results
 ### Start and Stop Locations
