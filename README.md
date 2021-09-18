@@ -1,5 +1,9 @@
 # bikesharing
 
+## Analysis Overview
+This analysis aims to 
+
+## Results
 Most trips start and end in midtown and downtown. This is a result of New Yorkers commuting to and from work and this conclusion will be reinforced by observing graphs related to trips by hour. 
 
 ![](images/TopStarting_Locations.png)
